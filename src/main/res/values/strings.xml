@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="no_internet_message">No internet</string>
+    <string name="refresh">Refesh</string>
+    <string name="movie_overview_label">Movie overview</string>
+    <string name="trailer">Trailer</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="read_user_reviews">read user reviews</string>
+    <string name="movie_trailer_icon">movie trailer icon</string>
+    <string name="sort_movies">Sort movies</string>
+    <string name="sort_popularity">Sort popularity</string>
+    <string name="sort_top_rated">Sort top rated</string>
+    <string name="sort_by_favorites">Sort by favourite</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="movie_added_to_favorites">Movie added  to favorite</string>
+    <string name="movie_removed_from_favorites">movie removed from favourite</string>
+    <string name="review_activity_title"> User reviews</string>
+</resources>
